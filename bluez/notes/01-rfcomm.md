@@ -1,4 +1,4 @@
-## Reference
+# Reference
 
 > - https://github.com/bluez/bluez/blob/master/doc/assigned-numbers.rst
 
@@ -50,3 +50,7 @@
 > - Designed for car kits and hands-free devices.
 > - HF meands Hands-Free device.
 > - Provides richer call control than HSP: call lists, voice dialing, battery indicators.
+
+> __Channel 9__: __Object Push Profile__ (OPP)
+> - Send simple objects like business cards (vCards) or files.
+> - Very basic file transfer, often used by phones.
